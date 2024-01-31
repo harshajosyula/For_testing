@@ -1,0 +1,20 @@
+Hi , this is a text doxument
+
+
+
+1.lamda expression
+2.functional interface
+3.default and static method in interface
+4.Method reference
+5.constructor reference
+6.Optional class
+7.stream API
+
+
+in functional interface
+	in inbhuilt functional interface
+ 		mainly 4 inbuilt interface:
+			1.predicate -> takes 1 param and returns boolean  and Bipredicate : takes 2 param and returns boolean
+			2.conusmer  -> takes 1 param and no return(void)
+			3.function -> takes 1 param(anything) and return only one(anything) and Bifunction : takes 2 param and returns only onething
+			4.supplier  -> no param but returns(anything)	
