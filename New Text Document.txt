@@ -19,4 +19,4 @@ in functional interface
 			3.function -> takes 1 param(anything) and return only one(anything) and Bifunction : takes 2 param and returns only onething
 			4.supplier  -> no param but returns(anything)	
 
-the end
+the endVHKJDBAVKJSDSDFDJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
